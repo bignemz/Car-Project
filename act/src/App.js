@@ -4,6 +4,7 @@ import { BrowserRouter, Routes,Route ,Link } from 'react-router-dom';
 import About from './about';
 import Home from './Home';
 import Car from './Car';
+import './server'
 
 export default function App(){
   return(
